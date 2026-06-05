@@ -1,0 +1,28 @@
+{
+    "name": "axiom-cachify",
+    "version": "1.0.0",
+    "description": "A zero-dependency in-memory cache with TTL, LRU eviction, and built-in statistics.",
+    "main": "index.js",
+    "keywords": [
+        "cache",
+        "caching",
+        "memory",
+        "ttl",
+        "lru",
+        "expiry",
+        "zero-dependency",
+        "lightweight",
+        "performance",
+        "nodejs"
+    ],
+    "author": "Alessandro Ghilardi",
+    "license": "MIT",
+    "engines": {
+        "node": ">=14"
+    },
+    "files": [
+        "index.js",
+        "README.md",
+        "LICENSE"
+    ]
+}
